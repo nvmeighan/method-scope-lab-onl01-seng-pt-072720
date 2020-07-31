@@ -8,3 +8,4 @@ describe "#rescue_princess_peach" do
   end 
   
   # rescue_princess_peach
+end
