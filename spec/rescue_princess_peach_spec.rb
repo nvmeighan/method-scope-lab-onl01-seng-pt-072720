@@ -5,4 +5,3 @@ describe "#rescue_princess_peach" do
     expect{rescue_princess_peach}.to output("Hooray! Mario has rescued Princess Peach.\n").to_stdout 
     expect{puts status}.to raise_error(NameError)
   end 
-end
